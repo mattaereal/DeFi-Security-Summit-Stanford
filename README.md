@@ -1,4 +1,4 @@
-# AMAZE-X CTF Walkthrough
+# AMAZE-X CTF Walkthrough | DeFi-Security-Summit-Stanford
 
 ## Table of contents
 1. [Intro to the series](https://medium.com/@mattaereal/a-maze-x-ctf-walkthrough-part-0-d73338e6809) — Part 0 (posted 21/09)
